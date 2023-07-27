@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Simon-Atallah
 - 👀 I’m interested in Project Management 
 - 🌱 I’m currently learning Supply Chain 
-- 💞️ I’m looking to collaborate on Projects and Supply Chain Management
+- 💞️ I’m looking to collaborate on Projects managment and Supply Chain Management
 - 📫 How to reach me simon.atallah.lb@gmail.com
 
 <!---
